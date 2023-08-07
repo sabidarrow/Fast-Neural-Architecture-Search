@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 21 10:42:31 2022
 
-@author: AnshumaanChauhan
-"""
 import tensorflow as tf
 from tf.keras.models import Sequential
 from tf.keras.layers import Dense, Dropout, Conv2d, MaxPool2d, Activation, Flatten, Input
