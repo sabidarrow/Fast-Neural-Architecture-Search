@@ -12,16 +12,6 @@ Fully convolutional one-stage object detection (FCOS) is a framework for per-pix
 
 This repository contains an open-source implementation of FCOS in Python, with access to pre-trained weights for a number of different models. The package provides PyTorch implementations for using training, evaluation, and prediction in your own systems. The package is easily installable with `conda`, and can also be installed via `pip` if you'd prefer to manually manage dependencies.
 
-Our code is free to use, and licensed under BSD-3. We simply ask that you [cite our work](#citing-our-work) if you use FCOS in your own research.
-
-## Related resources
-
-This repository brings the work from a number of sources together. Please see the links below for further details:
-
-- our original paper: ["FCOS: Fully convolutional one-stage object detection"](#citing-our-work)
-- our latest paper: ["FCOS: A Simple and Strong Anchor-free Object Detector"](#citing-our-work)
-- the original FCOS implementation: [https://github.com/tianzhi0549/FCOS](https://github.com/tianzhi0549/FCOS)
-- implementation in the AdelaiDet toolbox: [https://github.com/aim-uofa/AdelaiDet/blob/master/configs/FCOS-Detection/README.md#fcos-real-time-models](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/FCOS-Detection/README.md#fcos-real-time-models)
 
 ## Installing FCOS
 
