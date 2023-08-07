@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 22 09:58:50 2022
-
-@author: AnshumaanChauhan
-"""
 
 import tensorflow as tf
 from keras.models import Sequential
