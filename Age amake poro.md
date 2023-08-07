@@ -2,13 +2,7 @@
 
 # FCOS: fully convolutional one-stage object detection
 
-[![Best of ACRV Repository](https://img.shields.io/badge/collection-best--of--acrv-%23a31b2a)](https://roboticvision.org/best-of-acrv)
-![Primary language](https://img.shields.io/github/languages/top/best-of-acrv/fcos)
-[![PyPI package](https://img.shields.io/pypi/pyversions/fcos)](https://pypi.org/project/fcos/)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/fcos.svg)](https://anaconda.org/conda-forge/fcos)
-[![Conda Recipe](https://img.shields.io/badge/recipe-fcos-green.svg)](https://anaconda.org/conda-forge/fcos)
-[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/fcos.svg)](https://anaconda.org/conda-forge/fcos)
-[![License](https://img.shields.io/github/license/best-of-acrv/fcos)](./LICENSE.txt)
+
 
 Fully convolutional one-stage object detection (FCOS) is a framework for per-pixel prediction of objects in images. FCOS doesn't rely on expensive anchor box calculations and their hyper-parameters, which is in contrast to state-of-the-art object detectors like RetinaNet, YOLOv3, and Faster R-CNN.
 
