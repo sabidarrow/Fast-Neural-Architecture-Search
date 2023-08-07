@@ -146,30 +146,3 @@ f.predict(image_file='/my/detections.jpg',
 f.evaluate(output_directory='/my/eval/output/')
 ```
 
-## Citing our work
-
-If using FCOS in your work, please cite [our original ICVV paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tian_FCOS_Fully_Convolutional_One-Stage_Object_Detection_ICCV_2019_paper.pdf):
-
-```bibtex
-@inproceedings{tian2019fcos,
-  title={FCOS: Fully convolutional one-stage object detection},
-  author={Tian, Zhi and Shen, Chunhua and Chen, Hao and He, Tong},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={9627--9636},
-  year={2019}
-}
-```
-
-Or our [more recent TPAMI journal](https://arxiv.org/pdf/2006.09214.pdf) with further details of our work:
-
-```bibtex
-@article{tian2021fcos,
-  author={Tian, Zhi and Shen, Chunhua and Chen, Hao and He, Tong},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  title={FCOS: A Simple and Strong Anchor-free Object Detector},
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TPAMI.2020.3032166}}
-```
