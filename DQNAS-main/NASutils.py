@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 23 18:09:06 2022
-
-@author: AnshumaanChauhan
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 22 09:58:43 2022
-
-@author: AnshumaanChauhan
-"""
-
 import os
 import shutil
 import pickle
