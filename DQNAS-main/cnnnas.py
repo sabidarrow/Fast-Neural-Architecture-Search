@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 22 14:41:33 2022
-
-@author: AnshumaanChauhan
-"""
-
 import CNNCONSTANTS
 import pickle
 import keras.backend as K
