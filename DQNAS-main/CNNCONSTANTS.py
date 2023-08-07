@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 22 10:14:25 2022
-
-@author: AnshumaanChauhan
-"""
-
 
 #NAS PARAMETERS
 CONTROLLER_SAMPLING_EPOCHS = 10
